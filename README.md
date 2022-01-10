@@ -1,3 +1,2 @@
-# react-kg3k7f
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-kg3k7f)
+# Administrador-Citas
+Link del proyecto: https://admim-citas-practica.netlify.app/
